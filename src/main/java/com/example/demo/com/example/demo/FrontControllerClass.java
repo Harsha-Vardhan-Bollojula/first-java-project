@@ -12,5 +12,6 @@ public class FrontControllerClass {
 	public String printSomething() {
 		System.out.println("In FrontController Class");
 		return "First spring boot application succesfully launched";
+		
 	}
 }
